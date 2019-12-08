@@ -3,7 +3,7 @@ Variational Graph Recurrent Neural Networks
 
 This is a PyTorch implementation of the VGRNN model as described in our paper:
 
-E. Hajiramezanali∗, A. Hasanzadeh∗, N. Duffield, K. R. Narayanan, M. Zhou, and X. Qian, [Variational Graph Recurrent Neural Networks](http://papers.nips.cc/paper/9254-variational-graph-recurrent-neural-networks), Advances in Neural Information Processing Systems (NeurIPS), 2019, *equal contribution
+E. Hajiramezanali*, A. Hasanzadeh*, N. Duffield, K. R. Narayanan, M. Zhou, and X. Qian, [Variational Graph Recurrent Neural Networks](http://papers.nips.cc/paper/9254-variational-graph-recurrent-neural-networks), Advances in Neural Information Processing Systems (NeurIPS), 2019, *equal contribution
 
 ![VGRNN](figure.png)
 
