@@ -14,6 +14,20 @@ E. Hajiramezanali*, A. Hasanzadeh*, N. Duffield, K. R. Narayanan, M. Zhou, and X
 ![VGRNN_graphs](gc_v5.png)
 ![VGRNN_representations](cm_ch_v3.png)
 
+## Requirements
+```
+CUDA==9.0.176
+Python==2.7.12
+networkx==2.2
+scipy==1.1.0
+torch==1.0.0      
+torch-cluster==1.2.3      
+torch-geometric==1.0.2      
+torch-scatter==1.1.1      
+torch-sparse==0.2.3      
+torch-spline-conv==1.0.5      
+torchvision==0.2.1
+```
 
 ## Cite
 
