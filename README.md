@@ -42,3 +42,5 @@ Please cite our paper if you use this code in your own work:
   year={2019}
 }
 ```
+
+Please direct your inquiries to armanihm@tamu.edu or ehsanr@tamu.edu .
